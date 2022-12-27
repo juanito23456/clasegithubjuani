@@ -1,1 +1,5 @@
 body{background-color: aquamarine;}
+h1{ border: 1rem;
+background-color: blue;
+font-size: 2rem;
+}
